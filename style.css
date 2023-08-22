@@ -81,7 +81,7 @@ main{
     font-weight: 600;
     font-size: 40px;;
     margin:50px 0px;
-    text-align: left;
+    text-align: center;
     text-transform: uppercase;
     
 }
@@ -431,4 +431,9 @@ html {
         font-size: 12px;
     }
     
+}
+/* Custom CSS to make menu items always visible */
+.w3-bar .w3-bar-item {
+    opacity: 1 !important;
+    color: orange !important; /* Change the color as needed */
 }
