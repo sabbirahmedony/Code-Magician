@@ -369,6 +369,7 @@ html {
     .product-list{
         display: flex !important;
         flex-direction: column;
+        background-color: white;
     }
     .product-left-side{
         width:300px !important; 
