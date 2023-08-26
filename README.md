@@ -1,2 +1,2 @@
-# Code-Magician
-Code magician received all copyrights for this site
+# FutureTech Tycoons
+FutureTech Tycoons received all copyrights for this site
